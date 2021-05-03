@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.lab8-gradient-descent.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\Maria\Desktop\AI\lab8-gradient-descent\.idea\.idea.lab8-gradient-descent.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

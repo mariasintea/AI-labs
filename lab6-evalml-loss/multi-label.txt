@@ -1,0 +1,13 @@
+3
+red,blue,green
+5
+red,green
+blue
+blue,green
+red
+red,green
+0.5,0.2,0.3
+0.3,0.6,0.1
+0.1,0.5,0.4
+0.8,0.15,0.05
+0.5,0.15,0.35
